@@ -1,0 +1,30 @@
+# Data manipulation
+pandas
+numpy
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+
+# NLP and text preprocessing
+nltk
+spacy
+regex
+beautifulsoup4
+langdetect
+langid
+ftfy
+emoji
+
+# Deep learning (optional)
+torch
+transformers
+sentencepiece
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+wordcloud
