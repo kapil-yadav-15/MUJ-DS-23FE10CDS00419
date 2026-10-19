@@ -1,0 +1,10 @@
+├── tests/
+│   ├── conftest.py
+│   └── test_app.py
+├── .env.example
+├── .gitignore
+├── README.md
+├── app.py
+├── config.yaml
+├── prompts.yaml      ← new: the assignment requires a prompt file
+└── requirements.txt
